@@ -3,10 +3,14 @@
 jQuery plugin to create a web-based console-like behavior that posts user input commands to an AJAX server, and prints the result text.
 Designed to be utterly simple and highly customizable.
 
-The usage is pretty simple, try using this example as a template: http://n0nick.net/jquery/terminal/demo/
-You can see a sample of a terminal server here: http://n0nick.net/jquery/terminal/demo/server.phps
+The usage is pretty simple, try using this example as a template:
+http://n0nick.net/jquery/terminal/demo/
 
-jQuery plugin page: http://plugins.jquery.com/project/ajax_terminal
+You can see a sample of a terminal server here:
+http://n0nick.net/jquery/terminal/demo/server.phps
+
+jQuery plugin page:
+http://plugins.jquery.com/project/ajax_terminal
 
 #### License
 
