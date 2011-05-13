@@ -121,6 +121,9 @@
 				var first = first || false;
 				var val = $.trim(terminal_input.val());
 
+				// encode html entities in input
+				val = $('<i/>').text(val).html();
+
 				if ("" == val && !first)
 				{
 		 			if (!settings.allow_empty_input)
