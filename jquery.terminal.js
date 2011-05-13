@@ -1,5 +1,5 @@
 /* 
- * AJAX Terminal (0.4.1)
+ * AJAX Terminal (0.5)
  * by Sagie Maoz (n0nick.net)
  * n0nick@php.net
  *
